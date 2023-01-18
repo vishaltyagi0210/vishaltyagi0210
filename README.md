@@ -2,7 +2,9 @@
 <h3 align="center">a_steady_programmer</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/DQCMWOyqUYn7S5S2ik_-UXMjpIXJmAfj0uHsz5HRR-E/rs:fit:1200:672:1/g:ce/aHR0cHM6Ly92aXNt/ZS5jby9ibG9nL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzAz/L2FuaW1hdGlvbi1z/b2Z0d2FyZS1oZWFk/ZXIuZ2lm.gif">
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=vishaltyagi0210" alt="vishaltyagi0210" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaltyagi0210&label=Profile%20views&color=0e75b6&style=flat" alt="vishaltyagi0210" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaltyagi0210" alt="vishaltyagi0210" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishaltyagi0210" target="blank"><img src="https://img.shields.io/twitter/follow/vishaltyagi0210?logo=twitter&style=for-the-badge" alt="vishaltyagi0210" /></a> </p>
 
