@@ -4,9 +4,6 @@
 
 <img align="left" alt="Coding" width="300" src="https://miro.medium.com/max/960/1*m9bGzDmkTwB9Z1409K1_Ig.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaltyagi0210" alt="vishaltyagi0210" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vishaltyagi0210" target="blank"><img src="https://img.shields.io/twitter/follow/vishaltyagi0210?logo=twitter&style=for-the-badge" alt="vishaltyagi0210" /></a> </p>
 
 - 🔭 I’m currently working on [KatsCo](https://katscollc-195.gitbook.io/whitepaper/)
